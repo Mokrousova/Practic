@@ -8,3 +8,13 @@ C:\Users\79511\OneDrive\Рабочий стол\учебная практика\
 C:\Users\79511\OneDrive\Рабочий стол\учебная практика\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
 C:\Users\79511\OneDrive\Рабочий стол\учебная практика\game\game\obj\Debug\game.exe
 C:\Users\79511\OneDrive\Рабочий стол\учебная практика\game\game\obj\Debug\game.pdb
+C:\Users\Roman\Desktop\Practic-main\game\game\bin\Debug\game.exe.config
+C:\Users\Roman\Desktop\Practic-main\game\game\bin\Debug\game.exe
+C:\Users\Roman\Desktop\Practic-main\game\game\bin\Debug\game.pdb
+C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.Form1.resources
+C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.exe
+C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.pdb

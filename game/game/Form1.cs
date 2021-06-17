@@ -1,60 +1,39 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace game
 {
     public partial class Form1 : Form
     {
-        int count = 0;
         public Form1()
         {
             InitializeComponent();
-        }
+            flowLayoutPanel1.BackColor = Color.Transparent;
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            pictureBox16.Visible = true;
-            pictureBox15.Visible = false;
-        }
-
-        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void правилаToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox15_Click(object sender, EventArgs e)
-        {
-            if (count < 3 )
+            foreach (var match in this.flowLayoutPanel1.Controls)
             {
-                count++;
-                pictureBox16.Visible = true;
+                (match as PictureBox).Image = game.Properties.Resources.match1;
+                (match as PictureBox).SizeMode = PictureBoxSizeMode.StretchImage;
             }
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
+        private void MatchVisible(object sender, MouseEventArgs e)
         {
-            if (count < 3)
+            if(sender is PictureBox)
             {
-                count++;
-                pictureBox17.Visible = true;
+                (sender as PictureBox).Image = game.Properties.Resources.match3;
+                (sender as PictureBox).SizeMode = PictureBoxSizeMode.StretchImage; 
             }
         }
 
-        private void pictureBox9_Click(object sender, EventArgs e)
+        private void новаяИграToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            foreach (var match in this.flowLayoutPanel1.Controls)
+            {
+                (match as PictureBox).Image = game.Properties.Resources.match1;
+                (match as PictureBox).SizeMode = PictureBoxSizeMode.StretchImage;
+            }
         }
     }
 }
