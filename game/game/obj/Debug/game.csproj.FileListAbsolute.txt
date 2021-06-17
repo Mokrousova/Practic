@@ -18,3 +18,13 @@ C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.csproj.GenerateReso
 C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
 C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.exe
 C:\Users\Roman\Desktop\Practic-main\game\game\obj\Debug\game.pdb
+C:\Qt\Projects\Practic\game\game\bin\Debug\game.exe.config
+C:\Qt\Projects\Practic\game\game\bin\Debug\game.exe
+C:\Qt\Projects\Practic\game\game\bin\Debug\game.pdb
+C:\Qt\Projects\Practic\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Qt\Projects\Practic\game\game\obj\Debug\game.Form1.resources
+C:\Qt\Projects\Practic\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Qt\Projects\Practic\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Qt\Projects\Practic\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\Practic\game\game\obj\Debug\game.exe
+C:\Qt\Projects\Practic\game\game\obj\Debug\game.pdb
